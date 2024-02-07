@@ -5,7 +5,7 @@ const {
 
 const router = express.Router();
 
-router.get("/", (req, res) => {
+router.get("/", (req, res) => { 
     "use strict";
     return res.render("tutorial/a1", {
         environmentalScripts
