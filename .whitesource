@@ -1,6 +1,6 @@
 {
   "settingsInheritedFrom": "MendDemoOrg/whitesource-config@main",
   "scanSettings": {
-      "enableReachability": false,
+      "enableReachability": false
     }
 }
