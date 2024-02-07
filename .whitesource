@@ -1,3 +1,6 @@
 {
-  "settingsInheritedFrom": "MendDemoOrg/whitesource-config@main" 
+  "settingsInheritedFrom": "MendDemoOrg/whitesource-config@main",
+  "scanSettings": {
+      "enableReachability": false,
+    }
 }
