@@ -24,7 +24,7 @@ const pages = [
     "a9",
     "a10",
     "redos",
-    "ssrf"
+    "ssrf" 
 ];
 
 for(const page of pages) {
