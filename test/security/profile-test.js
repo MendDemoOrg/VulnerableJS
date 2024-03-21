@@ -5,7 +5,6 @@ var async = require("async");
 var By = require("selenium-webdriver").By;
 var chromeDriver = require("chromedriver");
 
-
 // Documentation for the selenium JS webdriver: https://code.google.com/p/selenium/wiki/WebDriverJs
 var seleniumWebdriver = require("selenium-webdriver");
 var webDriver;
