@@ -6,7 +6,7 @@
   "main": "server.js",
   "dependencies": {
     "dompurify": "^2.4.3",
-    "@babel/core": "7.23.2", 
+    "@babel/core": "7.26.9", 
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.15.1",
     "consolidate": "^0.14.1",
